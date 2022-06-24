@@ -71,8 +71,7 @@
 <h2> GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px' height='32px'> </h2>
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"> -->
-<a><img src="https://github-readme-stats.vercel.app/api/?username=Amanjot726&count_private=true&hide_border=true&show_icons=true&theme=gotham&border_color=30363d" height="192px"/></a> <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanjot726&langs_count=8&theme=gotham&hide_border=true&layout=compact" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+<a><img src="https://github-readme-stats.vercel.app/api/?username=Amanjot726&count_private=true&show_icons=true&theme=gotham&border_color=30363d" height="192px"/></a> <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanjot726&langs_count=8&theme=gotham&layout=compact" height="192px"/></a>
 <!-- <a href="https://github.com/anuraghazra/convoychat"> -->
   
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
