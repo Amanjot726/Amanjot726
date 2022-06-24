@@ -47,7 +47,7 @@
 <a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=selenium&sort= > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/selenium.svg'> </a>&nbsp;
 <a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=mysql&sort= > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>&nbsp;
 <a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
-
+<br><br><br><br>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width='50px' height='50px'> </h2>
 <a href = 'https://www.linkedin.com/in/amanjot-singh726'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
