@@ -68,10 +68,10 @@
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"> -->
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Amanjot726&count_private=true&show_icons=true&theme=gotham&border_color=30363d" />
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amanjot726&theme=gotham&border=30363d" alt="Amanjot726" /></p>
-  
 <!-- <a href="https://github.com/anuraghazra/convoychat"> -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanjot726&theme=gotham&border_color=30363d&layout=compact" />
+  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amanjot726&theme=gotham&border=30363d" alt="Amanjot726" /></p>
   
   
 
