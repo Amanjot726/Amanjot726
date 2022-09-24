@@ -1,23 +1,23 @@
 <div align="center">
-<kbd width="100%"><img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" /></kbd>
+<kbd width="100%"><a href="#"><img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" /></a></kbd>
 </div>
 
-<h1> Hello < Developers/ >! <img  width="50px" height="50px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"> </h1>
+<h1> Hello < Developers/ >! <a href="#"><img  width="50px" height="50px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></a> </h1>
 <div size='20px'> Hi! My name is Amanjot Singh. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Amanjot726.Amanjot726)
+<a href="#">![visitors](https://visitor-badge.glitch.me/badge?page_id=Amanjot726.Amanjot726)</a>
 
 </p>
 
 
-<h2> About Me <img src = "https://drive.google.com/uc?id=1VE87r9Ami-8q5TKRnjHDcL_RQqlwXkUc" width = '45px' height='50px'></h2>
+<h2> About Me <a href="#"><img src = "https://drive.google.com/uc?id=1VE87r9Ami-8q5TKRnjHDcL_RQqlwXkUc" width = '45px' height='50px'></a></h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<a href="#"><img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /></a>
 
 
-- 🔭 I’m currently working on [e-Transcript Management System using Blockchain](https://github.com/Amanjot726/E-Transcript_Management_System_using_Blockchain)
+- 🔭 I’m currently working on [Phatak Status App (Admin Module)](https://github.com/Amanjot726/Phatak-Status-App-Admin) using Angular
 
 - 🌱 I’m currently learning Data Structures and Algorithms in C++ 
 
@@ -25,7 +25,7 @@
 
 - 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '32px' height='32px'> </h2>
+<h2> Skills <a href="#"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '32px' height='32px'></a> </h2>
 <a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=python&sort= > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>&nbsp;
 <a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=django&sort= > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'> </a>&nbsp;
 <a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=flask&sort= > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg'> </a>&nbsp;
@@ -49,7 +49,7 @@
 <a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
 <br><br>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width='50px' height='50px'> </h2>
+<h2> Connect with me <a href="#"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width='50px' height='50px'></a> </h2>
 <a href = 'https://www.linkedin.com/in/amanjot-singh726'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
 <a href = 'https://www.twitter.com/Amanjot78580507'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href = 'https://www.github.com/Amanjot726'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
@@ -64,14 +64,14 @@
   
 
 <h2> Streak stats 🔥 </h2>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amanjot726&theme=gotham&border=30363d" alt="Amanjot726" /></p>
+<p><a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amanjot726&theme=gotham&border=30363d" alt="Amanjot726" /></a></p>
 <br>
   
   
-<h2> GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px' height='32px'> </h2>
+<h2> GitHub Stats <a href="#"><img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px' height='32px'></a> </h2>
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"> -->
-<a><img src="https://github-readme-stats.vercel.app/api/?username=Amanjot726&count_private=true&show_icons=true&theme=gotham&border_color=30363d" height="192px"/></a> <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanjot726&langs_count=8&theme=gotham&layout=compact&border_color=30363d" height="192px"/></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/?username=Amanjot726&count_private=true&show_icons=true&theme=gotham&border_color=30363d" height="192px"/></a> <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanjot726&langs_count=8&theme=gotham&layout=compact&border_color=30363d" height="192px"/></a>
 <!-- <a href="https://github.com/anuraghazra/convoychat"> -->
   
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -80,10 +80,10 @@
   
   
 <h2> Recent GitHub Activity ⚡ </h2>
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=Amanjot726&theme=gotham&border=30363d&radius=3" alt="Amanjot726" /></p>
+<p><a href="#"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=Amanjot726&theme=gotham&border=30363d&radius=3" alt="Amanjot726" /></a></p>
 <br>
   
 
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px' height='32px'></h2>
+<h2> Some Programming Humor for you <a href="#"><img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px' height='32px'></a></h2>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham&textColor=%232aa889)
+<a href="#">![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham&textColor=%232aa889)</a>
