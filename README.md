@@ -2,14 +2,25 @@
 <kbd width="100%"><a href="#"><img width="100%" src="https://raw.githubusercontent.com/Amanjot726/Amanjot726/main/Code.jpg" alt="cover" /></a></kbd>
 </div>
 
-<h1> Hello < Developers/ >! <a href="#"><img  width="50px" height="50px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></a> </h1>
+<h1 align="center">
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=700&size=38&duration=1&pause=500000000&color=AB8EB2&center=true&vCenter=true&width=460&lines=%3C%2F%3EHello+Developers%F0%9F%91%8B" alt="Typing SVG" /></a><br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=35&duration=1&pause=500000000&color=7BC79D&center=true&vCenter=true&width=460&lines=%F0%9F%91%B3%E2%80%8D%E2%99%82%EF%B8%8FAmanjot+Singh%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a><br>
+<!--   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=23&duration=3000&pause=500&color=1A6B6F&center=true&vCenter=true&width=435&lines=Software+Developer...;Web+Developer...;Full+Stack+Developer..." alt="Typing SVG" /></a> -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=200&size=24&duration=3000&pause=400&color=D3B9A2&center=true&vCenter=true&width=415&lines=~+Software+Developer;~+Web+Developer;~+Mobile+App+Developer;~+Full+Stack+Developer" alt="Typing SVG" /></a><br>
+<!--   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=200&size=24&duration=3000&pause=400&color=D3B9A2&center=true&vCenter=true&width=250&lines=-+Software+Developer;-+Web+Developer;-+Mobile+App+Developer;-+Full+Stack+Developer" alt="Typing SVG" /></a> -->
+  
+  <a href="#">![visitors](https://visitor-badge.glitch.me/badge?page_id=Amanjot726.Amanjot726)</a>
+</h1>
+  
+<!-- <h1> Hello < Developers/ >! <a href="#"><img  width="50px" height="50px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></a> </h1>
 <div size='20px'> Hi! My name is Amanjot Singh. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 <p align='center'>
-
+    
 <a href="#">![visitors](https://visitor-badge.glitch.me/badge?page_id=Amanjot726.Amanjot726)</a>
+    
+</p> -->
 
-</p>
 
 
 <h2> About Me <a href="#"><img src = "https://drive.google.com/uc?id=1VE87r9Ami-8q5TKRnjHDcL_RQqlwXkUc" width = '45px' height='50px'></a></h2>
