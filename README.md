@@ -1,5 +1,5 @@
 <div align="center">
-<kbd width="100%"><a href="#"><img width="100%" src="https://raw.githubusercontent.com/Amanjot726/Amanjot726/main/Code.jpg" alt="cover" /></a></kbd>
+<kbd width="100%"><a href="#"><img width="100%" height="100%" src="https://raw.githubusercontent.com/Amanjot726/Amanjot726/main/Code.jpg" alt="cover" /></a></kbd>
 </div>
 
 <h1 align="center">
