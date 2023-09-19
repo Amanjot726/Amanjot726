@@ -28,9 +28,9 @@
 <a href="#"><img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /></a>
 
 
-- 🔭 I’m currently working on [Phatak Status App (Admin Module)](https://github.com/Amanjot726/Phatak-Status-App-Admin) using Angular
+- 🔭 I’m currently working in Nucleus Software Exports Ltd. as Software Engineer.
 
-- 🌱 I’m currently learning Data Structures and Algorithms in C++ 
+<!-- - 🌱 I’m currently learning Data Structures and Algorithms in C++ -->
 
 - 👯 I’m looking to collaborate on Full Stack Projects 
 
