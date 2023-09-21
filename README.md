@@ -36,35 +36,44 @@
 
 - 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
 
-<h2> Skills <a href="#"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '32px' height='32px'></a> </h2>
-<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=python&sort= > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>&nbsp;
-<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=django&sort= > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'> </a>&nbsp;
-<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=flask&sort= > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg'> </a>&nbsp;
-<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=c&sort= > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>&nbsp;
-<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=cpp&sort= > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>&nbsp;
-<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=flutter&sort= > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'> </a>&nbsp;
-<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=dart&sort= > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dart.svg'> </a>&nbsp;
-<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=html&sort= > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>&nbsp;
-<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=css&sort= > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>&nbsp;
-<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=sass&sort= > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'> </a>&nbsp;
-<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>&nbsp;
-<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=javascript&sort= > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>&nbsp;
-<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=firebase&sort= > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>&nbsp;
-<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=figma&sort= > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'> </a>&nbsp;
-<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=photoshop&sort= > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>&nbsp;
-<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>&nbsp;
-<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=git&sort= > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>&nbsp;
-<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=github&sort= > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>&nbsp;
-<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=selenium&sort= > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/selenium.svg'> </a>&nbsp;
-<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=mysql&sort= > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>&nbsp;
-<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='35px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
+
 <br><br>
+
+
+<h2> Skills <a href="#"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '32px' height='32px'></a> </h2>
+<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=python&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>&nbsp;
+<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=django&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'> </a>&nbsp;
+<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=flask&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg'> </a>&nbsp;
+<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=c&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>&nbsp;
+<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=cpp&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>&nbsp;
+<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=flutter&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'> </a>&nbsp;
+<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=dart&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dart.svg'> </a>&nbsp;
+<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=html&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>&nbsp;
+<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=css&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>&nbsp;
+<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=sass&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'> </a>&nbsp;
+<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>&nbsp;
+<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=javascript&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>&nbsp;
+<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=firebase&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>&nbsp;
+<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=figma&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'> </a>&nbsp;
+<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=photoshop&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>&nbsp;
+<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>&nbsp;
+<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=git&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>&nbsp;
+<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=github&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>&nbsp;
+<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=selenium&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/selenium.svg'> </a>&nbsp;
+<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=mysql&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>&nbsp;
+<a href= https://github.com/Amanjot726?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>&nbsp;
+<a href= https://github.com/?tab=repositories&q=&type=&language=java&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'>
+</a>&nbsp;
+<a href= https://github.com/?tab=repositories&q=&type=&language=spring&sort= > <img width ='50px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'>
+</a>
+<br><br>
+
 
 <h2> Connect with me <a href="#"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width='50px' height='50px'></a> </h2>
 <a href = 'https://www.linkedin.com/in/amanjot-singh726'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
 <a href = 'https://www.twitter.com/Amanjot78580507'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href = 'https://www.github.com/Amanjot726'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-<br><br>
+<a href = 'https://www.github.com/Amanjot726'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" /></a>
+<br>
 
 
 <!-- <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='60px' height='60px'> </h2>
@@ -72,6 +81,17 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
 </a> -->
 <br>
+
+
+<h2> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
+
+<a href="https://wakatime.com/@Amanjot_Singh"><img src="https://wakatime.com/badge/user/376d7e99-6f87-4dde-9145-2a716cfb3a19.svg" alt="Total time coded since Aug 1 2023" /></a>
+
+<a href="https://wakatime.com/@Amanjot_Singh">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Amanjot_Singh&layout=compact&theme=gotham&border_color=30363d"/>
+</a>
+<br><br>
+
   
 
 <h2> Streak stats 🔥 </h2>
