@@ -83,7 +83,7 @@
 <br>
 
 
-<h2> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
+<h2> Wakatime stats (Weekly) <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
 
 <a href="https://wakatime.com/@Amanjot_Singh"><img src="https://wakatime.com/badge/user/376d7e99-6f87-4dde-9145-2a716cfb3a19.svg" alt="Total time coded since Aug 1 2023" /></a>
 
