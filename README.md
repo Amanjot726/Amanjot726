@@ -85,9 +85,9 @@
 
 <h2> Wakatime stats (Weekly) <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
 
-<a href="https://wakatime.com/@Amanjot_Singh"><img src="https://wakatime.com/badge/user/376d7e99-6f87-4dde-9145-2a716cfb3a19.svg" alt="Total time coded since Aug 1 2023" /></a>
+<a href="https://wakatime.com/@Amanjot_Singh" target="_blank"><img src="https://wakatime.com/badge/user/376d7e99-6f87-4dde-9145-2a716cfb3a19.svg" alt="Total time coded since Aug 1 2023" /></a>
 
-<a href="https://wakatime.com/@Amanjot_Singh">
+<a href="https://wakatime.com/@Amanjot_Singh" target="_blank">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Amanjot_Singh&layout=compact&theme=gotham&border_color=30363d"/>
 </a>
 <br><br>
