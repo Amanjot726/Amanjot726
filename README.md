@@ -34,7 +34,7 @@
 
 - 👯 I’m looking to collaborate on Full Stack Projects 
 
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
+- 💬 Talk to me about JAVA, Python, JavaScript, UI/UX, Freelancing Opportunites, Open Source 
 
 
 <br><br>
